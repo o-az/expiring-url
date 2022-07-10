@@ -1,0 +1,13 @@
+node_modules
+
+# Remix output
+.cache
+/build/
+/public/build/
+
+# Application output
+db.sqlite
+
+## Fly configuration
+fly.toml
+.scratch
